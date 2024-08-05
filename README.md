@@ -1,4 +1,6 @@
 # Online-Music-Streaming-Platform
+![222291670-1285014b-0769-4b4c-b861-913b328cf558](https://github.com/user-attachments/assets/1699b00a-62f4-4bf0-a753-47339920609c)
+
 Unlock the Power of Music: Introducing Our Online Music Streamer Server 🎵
 
 In today's fast-paced world, music is a universal language that resonates across generations. Our latest project, the Online Music Streamer Server, caters to this universal love by mimicking the appearance and basic functionalities of popular music-streaming platforms.
